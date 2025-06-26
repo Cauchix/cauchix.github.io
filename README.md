@@ -61,7 +61,7 @@ Après 7 années de bons et loyaux services dans le secteur des vins et spiritue
 
 ## 🌐 Retrouvez-moi en ligne
 
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" style="margin-right: 22px;"/>
   </a>
