@@ -61,9 +61,17 @@ Après 7 années de bons et loyaux services dans le secteur des vins et spiritue
 
 ## 🌐 Retrouvez-moi en ligne
 
-[Facebook](https://www.facebook.com/A.Cauchois/) | [LinkedIn](https://www.linkedin.com/in/antoinecauchois/) | [Instagram](https://www.instagram.com/antoinecchs)
-
-
+<p align="center">
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" style="margin-right: 22px;"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" style="margin-right: 22px;"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
+  </a>
+</p>
 
 ## 📬 Me contacter
 
