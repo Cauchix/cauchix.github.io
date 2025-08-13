@@ -2,7 +2,7 @@
 
 ## 🚀 En reconversion professionnelle
 
-Après 7 années de bons et loyaux services dans le secteur des vins et spiritueux comme responsable commercial pour différents vignerons à travers la France, j'ai décidé de changer de métier pour me tourner vers le développement web et l’intelligence artificielle.
+ADéveloppeur full-stack formé au Wagon (Ruby, JavaScript, Vue, Rails, SQL, HTML/CSS) après 7 ans d'expérience dans le commerce international des vins. Capacité à allier compétences techniques et vision business pour concevoir, développer et piloter des solutions digitales orientées utilisateur. 
 
 🎓 Actuellement en formation **Web Development & Intelligence Artificielle** au Wagon Toulouse (7 juillet - 6 septembre).
 
@@ -11,8 +11,11 @@ Après 7 années de bons et loyaux services dans le secteur des vins et spiritue
 ## 🛠️ Compétences en cours d’apprentissage
 
 - JavaScript
-- HTML, CSS
 - Ruby
+- HTML, CSS
+- Postgre SQL
+- Rails, Vue, React
+- Scrum / Agile
 - Git, GitHub
 - Figma
 
@@ -22,7 +25,7 @@ Après 7 années de bons et loyaux services dans le secteur des vins et spiritue
 
 - 🇫🇷 Français (langue natale)
 - 🇬🇧 Anglais (courant)
-- 🇪🇸 Espagnol (intermédiaire, parlé et écrit)
+- 🇪🇸 Espagnol (intermédiaire)
 
 ---
 
@@ -36,8 +39,8 @@ Après 7 années de bons et loyaux services dans le secteur des vins et spiritue
 
 ## 🏆 Projets
 
-- *À venir : descriptions de projets réalisés pendant la formation*  
-  *(Rendez-vous bientôt pour plus d’informations sur mes réalisations !)*
+- GeoBattle : jeu avec des quizz de géographie - apprendre en jouant
+- Les pépites d'Antoine : no-code avec Wordpress 
 
 ---
 
