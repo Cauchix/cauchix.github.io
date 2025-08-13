@@ -39,7 +39,7 @@ ADéveloppeur full-stack formé au Wagon (Ruby, JavaScript, Vue, Rails, SQL, HTM
 
 ## 🏆 Projets
 
-- GeoBattle : jeu avec des quizz de géographie - apprendre en jouant
+- GeoBattle : jeu en ligne avec des quizz de géographie - apprendre en jouant
 - Les pépites d'Antoine : no-code avec Wordpress 
 
 ---
